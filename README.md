@@ -1,5 +1,5 @@
 # fashionrecengine
-Project Overview
+Project Overview <br />
 The recommendation system extracts image features using CNNs and clusters similar images. The model can be fine-tuned to improve accuracy and is suitable for applications in e-commerce and personal styling platforms. This project demonstrates how to build a fashion recommendation system using image features and machine learning. The model analyzes visual patterns from clothing images to suggest fashion recommendations based on similar attributes.
 
 Features <br />
